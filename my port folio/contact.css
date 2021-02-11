@@ -1,0 +1,90 @@
+@import url('https://css.gg/css?=|mail');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://css.gg/phone.css');
+@import url('https://fonts.googleapis.com/css2?family=Rambla:ital@1&display=swap');
+
+*{
+    margin: 0;
+
+}
+body{
+    font-family: 'Rambla', sans-serif;
+    background-image: url(https://cdn.dribbble.com/users/150883/screenshots/2391725/social-media-pixelfarm.gif);
+      background-position: center center;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+    margin-top: 5%;
+    margin-left: 5%;
+    color: #ff1493;
+}
+.gg-mail{
+    margin-top: 10%;
+    margin-left: 10%;
+    background-image:linear-gradient(to top,red,white)
+}
+.mail{
+    margin-top: -1.2%;
+    margin-left: 13%;
+}
+.gg-instagram{
+     margin-top: 2.7%;
+    margin-left: 9.8%;
+    width: 2%;
+}
+.insta{
+    margin-top: -1.4%;
+    margin-left: 13%;
+}
+.gg-phone{
+    margin-top: 2.7%;
+    margin-left: 9.8%;
+    width: 3%;
+    height: 3%
+}
+.phone{
+    margin-top: -1.4%;
+    margin-left: 13%;
+}
+img{
+    height: 1.5%;
+    width: 3%;
+    margin-top: 2.7%;
+    margin-left: 9%;
+}
+.git{
+    margin-top: -2.4%;
+    margin-left: 13%;
+}
+.face{
+     margin-top: -2.4%;
+    margin-left: 13%;   
+}
+iframe{
+    padding-left: 45%;
+    margin-top: -33%;
+    position: absolute;
+    top:0;
+    left: 0;
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+    padding-left: 9%;
+    color: orange;
+    font-size: 110%;
+}
+li:hover{
+    color: pink;
+}
+.title{
+    padding-left: 73%;
+    margin-top: -5%;
+}
